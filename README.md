@@ -7,7 +7,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColorefr=white)](mailto:alqamascaptaina3@gmail.com)
  <a href="https://www.linkedin.com/in/mohd-alqama-shaikh-636587229/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-This Mohd Alqama Shaikh, second-year Mechanical Engineering Student at VJTI, Mumbai.
+This is Mohd Alqama Shaikh, second-year Mechanical Engineering Student at VJTI, Mumbai.
 
 I love to learn everything that challenges me! 😎 \
 Science, Tech, Robotics, and Math are just amazing!
