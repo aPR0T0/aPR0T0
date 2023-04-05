@@ -14,9 +14,6 @@ Science, Tech, Robotics, and Math are just amazing!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aPR0T0&theme=tokyonight)](https://git.io/praveenscience)
-
 | ![My's github stats](https://github-readme-stats.vercel.app/api?username=aPR0T0&show_icons=true&theme=tokyonight) | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aPR0T0&theme=tokyonight) |
 | --- | --- |
 
