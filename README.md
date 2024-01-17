@@ -83,10 +83,10 @@ Science, Tech, Robotics, and Math are just amazing!
 <br>
 
 #### What am I upto?
-- 🔭 I’m currently working on [Visual SLAM on Turtlebot3](https://github.com/aPR0T0/Visual_SLAM_on_TB3)
+- 🔭 I’m currently working on [Morphobot](https://github.com/SRA-VJTI/Morphobot)
 - 🌱 I’m currently learning Robotics and Control Systems
 - 👯 I’m looking to collaborate on futuristic and cool projects, maybe quantum computing or designing a whole new for of space travel 🚀
-- 🤔 I’m looking for help with OS, Embedded Systems, and Kalman Filters
+- 🤔 I’m looking for help with implementation of SLAM from scratch
 - ⚡ Fun fact: I tend to forget everything except the tabs in Makefile :wink:
 
 <br/>  
